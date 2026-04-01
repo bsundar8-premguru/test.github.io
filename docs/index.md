@@ -5,5 +5,5 @@ Welcome
 <center> Hello </center>
 
 **various**
-. unordered
-. list
+* unordered
+* list
